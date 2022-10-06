@@ -1,2 +1,2 @@
 # profile
-a personal website 
+a personal website created to showcase your achievements and to impress your employer.
